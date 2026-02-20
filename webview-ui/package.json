@@ -27,7 +27,7 @@
 		"fuse.js": "^7.0.0",
 		"fzf": "^0.5.2",
 		"lucide-react": "^0.511.0",
-		"mermaid": "^11.4.1",
+		"mermaid": "^11.10.0",
 		"posthog-js": "^1.224.0",
 		"pretty-bytes": "^6.1.1",
 		"react": "^18.3.1",
@@ -63,7 +63,7 @@
 		"react-devtools": "^6.1.2",
 		"tailwindcss": "^4.1.5",
 		"typescript": "^5.7.3",
-		"vite": "^6.3.4",
+		"vite": "^6.4.1",
 		"vitest": "^3.0.5"
 	},
 	"optionalDependencies": {
